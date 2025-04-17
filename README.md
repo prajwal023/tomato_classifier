@@ -42,7 +42,7 @@ Place your images in the `./images` directory before launching the app. The app 
 3. Make sure you have an images/ folder in the same directory with some tomato images inside.
 
 4. Run the application:
-   python app.py
+   python tomato.py
 
 ## 🖥️ GUI Preview
 Press Start Sorting to begin classification.
