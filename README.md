@@ -57,6 +57,15 @@ A detailed report window will open after all images are processed.
 Developed by [Prajwal](https://github.com/prajwal023)
 
 
+## Connect with Me
+
+If you have any suggestions or feedback, feel free to reach out:
+
+GitHub: https://github.com/prajwal023
+
+LinkedIn: www.linkedin.com/in/prajwal-‎-759274325
+
+
 
 
 
